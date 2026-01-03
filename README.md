@@ -115,3 +115,35 @@ Suitable for early detection support systems
 ## Outcomes 
 ![Alt text](https://github.com/Kavyar0411/Final-year-project-/blob/main/Home_page.jpeg)
 
+![Alt text](https://github.com/Kavyar0411/Final-year-project-/blob/main/Login_page.jpeg)
+
+![Alt text](https://github.com/Kavyar0411/Final-year-project-/blob/main/Heart_Attack_Classifier.jpeg)
+
+![Alt text](https://github.com/Kavyar0411/Final-year-project-/blob/main/Graph(1).jpeg)
+
+![Alt text](https://github.com/Kavyar0411/Final-year-project-/blob/main/Graph(2).jpeg)
+
+---
+## Future Scope
+
+Improve accuracy using larger datasets
+
+Multi-class risk prediction
+
+Web or mobile application integration
+
+Real-time clinical support systems
+
+---
+
+
+## 👩‍💻 Author
+
+Kavya R 
+
+B.E. – Information Science and Engineering
+
+MVJ College of Engineering
+
+---
+
