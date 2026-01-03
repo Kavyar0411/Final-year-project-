@@ -113,4 +113,5 @@ Suitable for early detection support systems
  
 ---
 ## Outcomes 
+![Alt text](https://github.com/Kavyar0411/Final-year-project-/blob/main/Home_page.jpeg)
 
