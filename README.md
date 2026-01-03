@@ -1,5 +1,5 @@
-Heart Attack Risk Prediction using Retinal Images
-Project Overview
+# Heart Attack Risk Prediction using Retinal Images
+* Project Overview
 
 Cardiovascular diseases (CVDs), including heart attacks, are one of the leading causes of death worldwide. Early detection plays a crucial role in preventing severe outcomes.
 
