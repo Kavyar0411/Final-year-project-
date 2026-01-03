@@ -37,25 +37,12 @@ The system uses **image preprocessing, feature extraction, and machine learning 
 ## 🔄 Methodology
 
 ### 1. Image Preprocessing
-- Image resizing
-- Noise reduction
-- Normalization
-- Contrast enhancement
 
 ### 2. Feature Extraction
-- Blood vessel segmentation
-- Texture and intensity analysis
-- Extraction of vascular patterns related to cardiovascular health
 
 ### 3. Model Training
-- Machine learning / deep learning models
-- Transfer learning using pretrained models
-- Bottleneck feature extraction for efficient training
 
 ### 4. Prediction
-- Input retinal image
-- Model predicts heart attack risk level
-- Output: Normal / High Risk
 
 ---
 
