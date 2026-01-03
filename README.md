@@ -36,13 +36,13 @@ The system uses **image preprocessing, feature extraction, and machine learning 
 
 ## 🔄 Methodology
 
-### 1. Image Preprocessing
+ 1. Image Preprocessing
 
-### 2. Feature Extraction
+2. Feature Extraction
 
-### 3. Model Training
+3. Model Training
 
-### 4. Prediction
+4. Prediction
 
 ---
 
