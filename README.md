@@ -111,6 +111,9 @@ Suitable for early detection support systems
 ![Alt text](https://github.com/Kavyar0411/Final-year-project-/blob/main/Graph(2).jpeg)
 <img width="1599" height="849" alt="image" src="https://github.com/user-attachments/assets/1ee5d807-cd0a-4a89-8e02-8e31d7c561e7" />
 
+<img width="1600" height="689" alt="image" src="https://github.com/user-attachments/assets/780015a2-0b33-4aa5-8f89-88fcf797b777" />
+
+
 
 ---
 ## Future Scope
