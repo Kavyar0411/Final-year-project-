@@ -1,13 +1,13 @@
 # Heart Attack Risk Prediction using Retinal Images
 
-## 📌 Overview
+## Overview
 This project focuses on predicting the risk of heart attack using **retinal fundus images**. Retinal blood vessels reflect cardiovascular health, making retinal imaging a **non-invasive and effective method** for early heart disease risk assessment.
 
 The system uses **image preprocessing, feature extraction, and machine learning techniques** to classify patients as **Normal** or **High Risk**.
 
 ---
 
-## 🎯 Objectives
+## Objectives
 - Analyze retinal images for cardiovascular indicators
 - Extract meaningful vascular features
 - Predict heart attack risk using machine learning models
@@ -15,7 +15,7 @@ The system uses **image preprocessing, feature extraction, and machine learning 
 
 ---
 
-## 🧠 Key Concepts
+## Key Concepts
 - Medical Image Processing
 - Feature Extraction
 - Machine Learning Classification
@@ -25,7 +25,7 @@ The system uses **image preprocessing, feature extraction, and machine learning 
 
 ---
 
-## 🖼️ Dataset
+## Dataset
 - Retinal fundus images
 - Two classes:
   - Normal
@@ -34,7 +34,7 @@ The system uses **image preprocessing, feature extraction, and machine learning 
 
 ---
 
-## 🔄 Methodology
+## Methodology
 
  1. Image Preprocessing
 
@@ -46,7 +46,7 @@ The system uses **image preprocessing, feature extraction, and machine learning 
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 - Python
 - TensorFlow
 - OpenCV
@@ -57,7 +57,7 @@ The system uses **image preprocessing, feature extraction, and machine learning 
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ### Clone Repository
 ```bash
@@ -101,14 +101,6 @@ Suitable for early detection support systems
 ---
 ## Outcomes 
 
-
-![Alt text](https://github.com/Kavyar0411/Final-year-project-/blob/main/Login_page.jpeg)
-
-![Alt text](https://github.com/Kavyar0411/Final-year-project-/blob/main/Heart_Attack_Classifier.jpeg)
-
-![Alt text](https://github.com/Kavyar0411/Final-year-project-/blob/main/Graph(1).jpeg)
-
-![Alt text](https://github.com/Kavyar0411/Final-year-project-/blob/main/Graph(2).jpeg)
 <img width="1599" height="849" alt="image" src="https://github.com/user-attachments/assets/1ee5d807-cd0a-4a89-8e02-8e31d7c561e7" />
 
 <img width="1600" height="689" alt="image" src="https://github.com/user-attachments/assets/780015a2-0b33-4aa5-8f89-88fcf797b777" />
@@ -117,9 +109,7 @@ Suitable for early detection support systems
 
 <img width="1599" height="849" alt="image" src="https://github.com/user-attachments/assets/c359c1d0-0aae-4165-991a-f3569d1b95e7" />
 
-
-
-
+<img width="1599" height="849" alt="image" src="https://github.com/user-attachments/assets/c97fbbe3-6284-48e2-b27f-d4df10086db6" />
 
 ---
 ## Future Scope
@@ -135,7 +125,7 @@ Real-time clinical support systems
 ---
 
 
-## 👩‍💻 Author
+## Author
 
 Kavya R 
 
