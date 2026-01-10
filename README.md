@@ -115,6 +115,9 @@ Suitable for early detection support systems
 
 <img width="1599" height="849" alt="image" src="https://github.com/user-attachments/assets/01894177-7662-4934-b4c9-d053ed3b6344" />
 
+<img width="1599" height="849" alt="image" src="https://github.com/user-attachments/assets/c359c1d0-0aae-4165-991a-f3569d1b95e7" />
+
+
 
 
 
