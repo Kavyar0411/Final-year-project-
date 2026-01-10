@@ -100,7 +100,7 @@ Suitable for early detection support systems
  
 ---
 ## Outcomes 
-![Alt text](https://github.com/Kavyar0411/Final-year-project-/blob/main/Home_page.jpeg)
+
 
 ![Alt text](https://github.com/Kavyar0411/Final-year-project-/blob/main/Login_page.jpeg)
 
@@ -109,6 +109,8 @@ Suitable for early detection support systems
 ![Alt text](https://github.com/Kavyar0411/Final-year-project-/blob/main/Graph(1).jpeg)
 
 ![Alt text](https://github.com/Kavyar0411/Final-year-project-/blob/main/Graph(2).jpeg)
+<img width="1599" height="849" alt="image" src="https://github.com/user-attachments/assets/1ee5d807-cd0a-4a89-8e02-8e31d7c561e7" />
+
 
 ---
 ## Future Scope
